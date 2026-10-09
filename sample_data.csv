@@ -1,0 +1,7 @@
+id,name,email,category,score
+1,Asha,asha@example.com,positive,0.91
+2,Ravi,ravi@example.com,negative,0.84
+3,Meena,,positive,0.73
+4,Arun,wrong-email,neutral,0.61
+4,Arun,wrong-email,neutral,0.61
+5,,nani@example.com,positive,
